@@ -1,7 +1,16 @@
+#!/usr/bin/env python3
+
+import datetime
 import pyautogui
 from shift_tab import shift_tab
 
-print(pyautogui.position()) # in a screen of 1920x1080 resolution 
+print("Hello World")
+print(f"Today is {datetime.datetime.now()}")
+print("Bye for now")
+
+
+
+# print(pyautogui.position()) # in a screen of 1920x1080 resolution 
 pyautogui.PAUSE = 1
 pyautogui.click(x=24,y=1060)
 
