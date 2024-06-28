@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 import datetime
 import pyautogui
@@ -35,9 +35,8 @@ shift_tab(7)
 
 pyautogui.write("Prada")
 pyautogui.press("enter")
-pyautogui.write("**Testing program...*")
+pyautogui.write("*Hola Amigo Prada :)..........No je le olvide dejar el hpta afan y dejar de hacer las mierdas de mala gana oijte mama*")
 pyautogui.press("enter")
-
 
 
 

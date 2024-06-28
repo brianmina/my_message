@@ -1,1 +1,2 @@
-This program opens Google chrome and send a message through whatsApp web to a specific contact.
+This program opens Google chrome and send a message through whatsApp web to a specific contac and every certain time/
+this program uses PyAutoGui as library and Crontab Jobs for its schedule task, currently it is set to send a whasApp message every day at 7:30 am  to my friend as a reminder for his task
